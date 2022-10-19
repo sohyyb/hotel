@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <div class="head">
-      <img src="/logo.png" class="brand" alt="">
+      <img src="@/assets/pics/logo.png" class="brand" alt="">
       <div class="search" @click.prevent="showSearch = !showSearch">
         <div class="image">
           <icon>
@@ -58,7 +58,7 @@
     <h1>stays in Finland</h1>
     <div class="cards">
       <div class="card">
-        <img src="/download (1).jpg" alt="">
+        <img src="@/assets/pics/download (1).jpg" alt="">
         <div class="desc">
           <p>SUPER HOST</p>
           <div class="rate">
@@ -72,7 +72,7 @@
         <h3>cozy, peaceful and private room with...</h3>
       </div>
       <div class="card">
-        <img src="/download (2).jpg" alt="">
+        <img src="@/assets/pics/download (2).jpg" alt="">
         <div class="desc">
           <p>private room</p>
           <div class="rate">
@@ -86,7 +86,7 @@
         <h3>cozy, peaceful and private room with...</h3>
       </div>
       <div class="card">
-        <img src="/download (3).jpg" alt="">
+        <img src="@/assets/pics/download (3).jpg" alt="">
         <div class="desc">
           <p>Entire House</p>
           <div class="rate">
@@ -100,7 +100,7 @@
         <h3>cozy, peaceful and private room with...</h3>
       </div>
       <div class="card">
-        <img src="/download (4).jpg" alt="">
+        <img src="@/assets/pics/download (4).jpg" alt="">
         <div class="desc">
           <p>SUPER HOST</p>
           <div class="rate">
@@ -114,7 +114,7 @@
         <h3>cozy, peaceful and private room with...</h3>
       </div>
       <div class="card">
-        <img src="/download.jpg" alt="">
+        <img src="@/assets/pics/download.jpg" alt="">
         <div class="desc">
           <p>private room</p>
           <div class="rate">
@@ -128,7 +128,7 @@
         <h3>cozy, peaceful and private room with...</h3>
       </div>
       <div class="card">
-        <img src="/hotel-room-300x300.jpg" alt="">
+        <img src="@/assets/pics/hotel-room-300x300.jpg" alt="">
         <div class="desc">
           <p>Entire House</p>
           <div class="rate">
